@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "19865418972",
+    "project_id": "cutz-547b4",
+    "storage_bucket": "cutz-547b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19865418972:android:da6d71c9b79c12a3534819",
+        "android_client_info": {
+          "package_name": "com.example.viji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19865418972-p4q8mbge360sj7du5kk13l39e3hf8hhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzd2Qc9hUcBGWKsUd4Ds0D_kYpE-Jvr38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19865418972-ab9156vq8gfe8fsrbf6oobo69umk9nm9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19865418972-r5h4qcf9ul2pcas3gqorjg9dvfa0sv1f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.viji"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19865418972:android:a69ace402107a4de534819",
+        "android_client_info": {
+          "package_name": "com.viji.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19865418972-p4q8mbge360sj7du5kk13l39e3hf8hhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzd2Qc9hUcBGWKsUd4Ds0D_kYpE-Jvr38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19865418972-ab9156vq8gfe8fsrbf6oobo69umk9nm9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19865418972-r5h4qcf9ul2pcas3gqorjg9dvfa0sv1f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.viji"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
